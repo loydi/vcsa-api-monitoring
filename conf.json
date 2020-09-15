@@ -1,0 +1,5 @@
+{
+    "host":"172.0.0.1",
+    "user":"administrator@vsphere.local",
+    "passwd":""
+}
